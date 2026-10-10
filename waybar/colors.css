@@ -1,0 +1,14 @@
+/* ~/.config/waybar/colors.css — Nord */
+@define-color bg        #2e3440;
+@define-color bg-dark   #242933;
+@define-color current   #3b4252;
+@define-color fg        #d8dee9;
+@define-color comment   #616e88;
+
+@define-color accent    #88c0d0;   /* frost blue */
+@define-color cyan      #8fbcbb;
+@define-color green     #a3be8c;
+@define-color orange    #d08770;
+@define-color pink      #b48ead;   /* mauve — slight purple, but muted */
+@define-color red       #bf616a;
+@define-color yellow    #ebcb8b;
